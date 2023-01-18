@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/usamaweb/alpha97-car-rent-website">
-    <img src="./ALPHA97.png" alt="Logo" width="700" height="200">
+    <img src="./img/ALPHA97.png" alt="Logo" width="700" height="200">
   </a>
 
   <h1 align="center">Alpha97 - Car rent website</h1>
@@ -23,7 +23,7 @@ Responsive for all devices, built using HTML, CSS, and JavaScript.
 
 ## About The Project
 
-![Screen Shot](./images/mockup1.png)
+![Screen Shot](./img/mockup1.png)
 
 Alpha97 is fully responsive car rental website,
 Responsive for all devices, built using HTML, CSS, and JavaScript.
