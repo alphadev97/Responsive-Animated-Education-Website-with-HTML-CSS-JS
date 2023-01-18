@@ -1,13 +1,13 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/usamaweb/alpha97-car-rent-website">
+  <a href="https://github.com/usamaweb/Responsive-Animated-Education-Website-with-HTML-CSS-JS">
     <img src="./img/ALPHA97.png" alt="Logo" width="700" height="200">
   </a>
 
-  <h1 align="center">Alpha97 - Car rent website</h1>
+  <h1 align="center">Alpha97 - Responsive Animated Education Website</h1>
 
   <p align="center">
-    Alpha97 is fully responsive car rental website,
+    Alpha97 is fully Responsive Animated Education Website,
 Responsive for all devices, built using HTML, CSS, and JavaScript.
     <br/>
     <br/>
@@ -45,13 +45,13 @@ To run **Alpha97** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/usamaweb/alpha97-car-rent-website.git
+sudo git clone https://github.com/usamaweb/Responsive-Animated-Education-Website-with-HTML-CSS-JS.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/usamaweb/alpha97-car-rent-website.git
+git clone https://github.com/usamaweb/Responsive-Animated-Education-Website-with-HTML-CSS-JS.git
 ```
 
 ### Contact
